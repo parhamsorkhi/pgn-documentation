@@ -1,0 +1,32 @@
+{
+  "index": {
+    "title": "Introduction"
+  },
+  "about": {
+    "title": "About"
+  },
+  "getting-started": {
+    "title": "Getting Started"
+  },
+  "quick-links": {
+    "title": "Quick Links",
+    "children": [
+      {
+        "name": "Bridge",
+        "href": "https://pgn-bridge.vercel.app/bridge",
+        "newWindow": true
+      },
+      {
+        "name": "Block Explorer",
+        "href": "https://explorer.sepolia.publicgoods.network/",
+        "newWindow": true
+      }
+    ]
+  },
+  "get-involved": "Get Involved",
+  "home": {
+    "title": "Home",
+    "href": "https://publicgoods.network/",
+    "type": "page"
+  }
+}

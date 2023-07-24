@@ -1,0 +1,9 @@
+{
+  "rpc-endpoints": "Adding PGN to Metamask",
+  "bridge": {
+    "title": "Bridging Funds from Sepolia"
+  },
+  "faucet": {
+    "title": "Getting testnet Eth"
+  }
+}
